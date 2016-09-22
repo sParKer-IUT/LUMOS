@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\Project PDA\voice reader\voice reader\bin\Release\voice reader.exe.config
+C:\Users\User\Desktop\Project PDA\voice reader\voice reader\obj\Release\Interop.MediaPlayer.dll
+C:\Users\User\Desktop\Project PDA\voice reader\voice reader\obj\Release\Interop.WMPLib.dll
+C:\Users\User\Desktop\Project PDA\voice reader\voice reader\obj\Release\voice reader.csproj.ResolveComReference.cache

@@ -1,0 +1,78 @@
+C:\Users\User\Desktop\Project PDA\voice reader\voice reader\bin\Debug\voice reader.exe.config
+C:\Users\User\Desktop\Project PDA\voice reader\voice reader\bin\Debug\voice reader.exe
+C:\Users\User\Desktop\Project PDA\voice reader\voice reader\bin\Debug\voice reader.pdb
+C:\Users\User\Desktop\Project PDA\voice reader\voice reader\obj\Debug\voice reader.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Project PDA\voice reader\voice reader\obj\Debug\voice_reader.Form1.resources
+C:\Users\User\Desktop\Project PDA\voice reader\voice reader\obj\Debug\voice_reader.Properties.Resources.resources
+C:\Users\User\Desktop\Project PDA\voice reader\voice reader\obj\Debug\voice reader.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Project PDA\voice reader\voice reader\obj\Debug\voice reader.exe
+C:\Users\User\Desktop\Project PDA\voice reader\voice reader\obj\Debug\voice reader.pdb
+C:\Users\User\Desktop\Project PDA\voice reader\voice reader\bin\Debug\itextsharp.dll
+C:\Users\User\Desktop\Project PDA\voice reader\voice reader\bin\Debug\itextsharp.xtra.dll
+C:\Users\User\Desktop\Project PDA\voice reader\voice reader\obj\Debug\voice_reader.Form2.resources
+D:\SAD project\voice reader\voice reader\bin\Debug\voice reader.exe.config
+D:\SAD project\voice reader\voice reader\obj\Debug\voice reader.exe
+D:\SAD project\voice reader\voice reader\obj\Debug\voice reader.pdb
+D:\SAD project\voice reader\voice reader\bin\Debug\voice reader.exe
+D:\SAD project\voice reader\voice reader\bin\Debug\voice reader.pdb
+D:\SAD project\voice reader\voice reader\obj\Debug\voice reader.csprojResolveAssemblyReference.cache
+D:\SAD project\voice reader\voice reader\obj\Debug\voice_reader.Form1.resources
+D:\SAD project\voice reader\voice reader\obj\Debug\voice_reader.Form2.resources
+D:\SAD project\voice reader\voice reader\obj\Debug\voice_reader.Properties.Resources.resources
+D:\SAD project\voice reader\voice reader\obj\Debug\voice reader.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Project PDA\voice reader\voice reader\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\User\Desktop\Project PDA\voice reader\voice reader\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\Project PDA\voice reader\voice reader\obj\Debug\voice reader.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Project PDA\voice reader\voice reader\obj\Debug\voice_reader.Form3.resources
+C:\Users\User\Desktop\Project PDA\voice reader\voice reader\obj\Debug\voice_reader.Form4.resources
+C:\Users\User\Desktop\Project PDA\voice reader\voice reader\obj\Debug\voice_reader.Form5.resources
+E:\esonance\voice reader\voice reader\bin\Debug\voice reader.exe.config
+E:\esonance\voice reader\voice reader\obj\Debug\Interop.MediaPlayer.dll
+E:\esonance\voice reader\voice reader\obj\Debug\Interop.WMPLib.dll
+E:\esonance\voice reader\voice reader\obj\Debug\voice reader.csproj.ResolveComReference.cache
+E:\esonance\voice reader\voice reader\obj\Debug\voice reader.exe
+E:\esonance\voice reader\voice reader\obj\Debug\voice reader.pdb
+E:\esonance\voice reader\voice reader\bin\Debug\voice reader.exe
+E:\esonance\voice reader\voice reader\bin\Debug\voice reader.pdb
+E:\esonance\voice reader\voice reader\obj\Debug\voice reader.csprojResolveAssemblyReference.cache
+E:\esonance\voice reader\voice reader\obj\Debug\voice_reader.Form1.resources
+E:\esonance\voice reader\voice reader\obj\Debug\voice_reader.Form2.resources
+E:\esonance\voice reader\voice reader\obj\Debug\voice_reader.Form3.resources
+E:\esonance\voice reader\voice reader\obj\Debug\voice_reader.Form4.resources
+E:\esonance\voice reader\voice reader\obj\Debug\voice_reader.Form5.resources
+E:\esonance\voice reader\voice reader\obj\Debug\voice_reader.Properties.Resources.resources
+E:\esonance\voice reader\voice reader\obj\Debug\voice reader.csproj.GenerateResource.Cache
+E:\esonance\voice reader\voice reader\obj\Debug\voice_reader.GameMenu.resources
+E:\esonance\voice reader\voice reader\obj\Debug\voice_reader.Play.resources
+C:\Users\User\Desktop\Project PDA\voice reader\voice reader\obj\Debug\voice_reader.ControlForm.resources
+C:\Users\User\Desktop\Project PDA\voice reader\voice reader\obj\Debug\voice_reader.Form6.resources
+C:\Users\User\Desktop\voice reader\voice reader\bin\Debug\voice reader.exe.config
+C:\Users\User\Desktop\voice reader\voice reader\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\User\Desktop\voice reader\voice reader\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\voice reader\voice reader\obj\Debug\voice reader.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\voice reader\voice reader\obj\Debug\voice reader.exe
+C:\Users\User\Desktop\voice reader\voice reader\obj\Debug\voice reader.pdb
+C:\Users\User\Desktop\voice reader\voice reader\bin\Debug\voice reader.exe
+C:\Users\User\Desktop\voice reader\voice reader\bin\Debug\voice reader.pdb
+C:\Users\User\Desktop\voice reader\voice reader\obj\Debug\voice reader.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\voice reader\voice reader\obj\Debug\voice_reader.ControlForm.resources
+C:\Users\User\Desktop\voice reader\voice reader\obj\Debug\voice_reader.Form1.resources
+C:\Users\User\Desktop\voice reader\voice reader\obj\Debug\voice_reader.Form2.resources
+C:\Users\User\Desktop\voice reader\voice reader\obj\Debug\voice_reader.Form3.resources
+C:\Users\User\Desktop\voice reader\voice reader\obj\Debug\voice_reader.Form4.resources
+C:\Users\User\Desktop\voice reader\voice reader\obj\Debug\voice_reader.Form5.resources
+C:\Users\User\Desktop\voice reader\voice reader\obj\Debug\voice_reader.Form6.resources
+C:\Users\User\Desktop\voice reader\voice reader\obj\Debug\voice_reader.Properties.Resources.resources
+C:\Users\User\Desktop\voice reader\voice reader\obj\Debug\voice reader.csproj.GenerateResource.Cache
+F:\project LUMOS\voice reader\voice reader\bin\Debug\voice reader.exe.config
+F:\project LUMOS\voice reader\voice reader\obj\Debug\Interop.MediaPlayer.dll
+F:\project LUMOS\voice reader\voice reader\obj\Debug\Interop.WMPLib.dll
+F:\project LUMOS\voice reader\voice reader\obj\Debug\voice reader.csproj.ResolveComReference.cache
+F:\project LUMOS\voice reader\voice reader\obj\Debug\voice reader.exe
+F:\project LUMOS\voice reader\voice reader\obj\Debug\voice reader.pdb
+E:\Project LUMOS(Leap Motion+C#)\voice reader\voice reader\bin\Debug\voice reader.exe.config
+E:\Project LUMOS(Leap Motion+C#)\voice reader\voice reader\obj\Debug\Interop.MediaPlayer.dll
+E:\Project LUMOS(Leap Motion+C#)\voice reader\voice reader\obj\Debug\Interop.WMPLib.dll
+E:\Project LUMOS(Leap Motion+C#)\voice reader\voice reader\obj\Debug\voice reader.csproj.ResolveComReference.cache
+E:\Project LUMOS(Leap Motion+C#)\voice reader\voice reader\obj\Debug\voice reader.exe
+E:\Project LUMOS(Leap Motion+C#)\voice reader\voice reader\obj\Debug\voice reader.pdb
