@@ -1,7 +1,7 @@
 # LUMOS
 Leap motion project with .NET. It helps visually impared people to use it's feature using some simple hand gestures.
 
-## Feature
+## Features
 * Pdf voice reader
 * Music player
 * Learn to count
